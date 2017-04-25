@@ -8,6 +8,7 @@ public class Main {
 		// tablica od 0 do 99
 		// stwórz metodę, która weźmie tę tablicę i zwróci średnią arytmetyczną z tablicy
 
+		
 //        int[] array1 = new int[100];
 //        double sum = 0;
 
